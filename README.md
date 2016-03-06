@@ -83,7 +83,7 @@ public class MainActivity extends ReactActivity {
 ```
 ### Special Notes
 
-The approach taken in this module relies heavily on @rt2zz and @morenoh149 comments at https://github.com/rt2zz/react-native-contacts/issues/38.
+The purpose of this module relies heavily on @rt2zz and @morenoh149 comments at https://github.com/rt2zz/react-native-contacts/issues/38.
 
 
 
